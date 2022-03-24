@@ -17,10 +17,10 @@
       </a>
       <div class="mt-8 bg-white overflow-hidden shadow sm:rounded-lg p-6">
         <h2 class="text-2xl leading-7 font-semibold">
-          Welcome to your Nuxt Application
+          Welcome to Full Stack Application
         </h2>
         <p class="mt-3 text-gray-600">
-          We recommend you take a look at the
+          I recommend you take a look at the
           <a
             href="https://nuxtjs.org"
             target="_blank"
@@ -41,7 +41,7 @@
         </p>
       </div>
       <div class="flex justify-center pt-4 space-x-2">
-        <a href="https://github.com/nuxt/nuxt.js" target="_blank"
+        <a href="https://github.com/emmanuel-k-adominah" target="_blank"
           ><svg
             class="w-6 h-6 text-gray-600 hover:text-gray-800"
             xmlns="http://www.w3.org/2000/svg"
@@ -58,7 +58,7 @@
               fill="currentColor"
             /></svg
         ></a>
-        <a href="https://twitter.com/nuxt_js" target="_blank"
+        <a href="https://twitter.com/ekwameadominah" target="_blank"
           ><svg
             class="w-6 h-6 text-gray-600 hover:text-gray-800"
             xmlns="http://www.w3.org/2000/svg"
